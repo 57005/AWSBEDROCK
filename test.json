@@ -1,0 +1,9 @@
+{
+    "modelId": "meta.llama2-70b-chat-v1",
+    "contentType": "application/json",
+    "accept": "application/json",
+    "body": "{\"prompt\":\"[INST]You are an economist with access to lots of data[/INST]\\nWrite an article about impact of high inflation to GDP of a country\",\"max_gen_len\":512,\"temperature\":0.5,\"top_p\":0.9}"
+  }
+
+
+  
